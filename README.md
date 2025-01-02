@@ -28,6 +28,10 @@
 ![Nazmul Hossen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmulhossen-012&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhossen-012&theme=dark)
+<p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/nazmulhossen-012/count.svg" />
+</p>
 
 
 <br>

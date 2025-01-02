@@ -8,16 +8,16 @@
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/axiftaj](https://github.com/nazmulhossen-012">
+  <a href="https://github.com/nazmulhossen-012">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw](https://www.youtube.com/channel/UCf6W9PAswpVeJI8nDbpIKcQ">
+  <a href="https://www.youtube.com/channel/UCf6W9PAswpVeJI8nDbpIKcQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-   <a href="https://www.instagram.com/axif_taj](https://www.instagram.com/nazmul_hossen01">
+   <a href="https://www.instagram.com/nazmul_hossen01">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://fb.com/aaxiftaj](https://www.facebook.com/nazmulhossen.per">
+   <a href="https://www.facebook.com/nazmulhossen.per">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>

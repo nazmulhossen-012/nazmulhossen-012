@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Nazmul Hossen </h1>
 
 - 🔭 I’m currently working on Programing , Graphic & Gaming
-- 🌱 I’m currently Everything.
+- 🌱 I’m currently learning Everything.
 - 💬 Ask me anything about Graphic & Gaming
 - 📫 How to reach me: nazmulhossen.per@gmail.com
 - ⚡ Fun fact: I'm comming to teen
